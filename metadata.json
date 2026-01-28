@@ -1,0 +1,5 @@
+{
+  "name": "BiblioBlaster 3000",
+  "description": "A fun, high-energy Chicago Style citation checker for students. It extracts bibliographies to save tokens and gives bite-sized, gamified feedback.",
+  "requestFramePermissions": []
+}
